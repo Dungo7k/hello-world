@@ -1,5 +1,5 @@
 # hello-world
-my first
-'walking slowly \n
-first project \n
+my first\
+'walking slowly\
+first project\
 getting commits'
